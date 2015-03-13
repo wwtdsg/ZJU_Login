@@ -1,4 +1,10 @@
 #! -*- encoding:utf-8 -*-
+"""
+author: wwtdsg
+version: 1.0
+type: script
+2015.3.13
+"""
 import urllib2
 import cookielib
 import re
