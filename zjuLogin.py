@@ -1,7 +1,7 @@
 #! -*- encoding:utf-8 -*-
 """
 author: wwtdsg
-version: 1.0
+version: 1.5
 type: script
 2015.3.13
 """
