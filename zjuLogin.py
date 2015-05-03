@@ -24,8 +24,8 @@ class ZJULogin():
         urllib2.install_opener(self.opener)
 
     def inputUserData(self):
-        self.username = '21430098'  # raw_input('Input your username: ')
-        self.password = '081778'  # raw_input('Input your password: ')
+        self.username = '********'  # raw_input('Input your username: ')
+        self.password = '******'  # raw_input('Input your password: ')
         self.inputState = 1
 
     def login(self):
